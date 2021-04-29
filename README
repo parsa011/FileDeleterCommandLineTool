@@ -1,1 +1,7 @@
-"# FileDeleterCommandLineTool" 
+this is very simple Command line tool for delete files
+
+-p flag for path (full path) 
+-e for Specify the extension (for delete)
+-n delete a certian file with name and extenstion (just one , i will change it)
+
+default path is the running path
