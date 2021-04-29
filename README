@@ -5,3 +5,6 @@ this is very simple Command line tool for delete files
 -n delete a certian file with name and extenstion (just one , i will change it)
 
 default path is the running path
+
+for use just build and publish the program with : dotet build && dotnet public
+then add published file location to your system varables
