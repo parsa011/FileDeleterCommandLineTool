@@ -6,5 +6,5 @@ this is very simple Command line tool for delete files
 
 default path is the running path
 
-for use just build and publish the program with : dotet build && dotnet public
-then add published file location to your system varables
+for use just build and publish the program with : dotet build && dotnet publish
+then add published file location to your system variables
